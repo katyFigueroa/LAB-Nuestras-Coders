@@ -1,0 +1,34 @@
+
+#cuadro1{
+	height: 211px;
+	width: 211px;
+	border:0px solid gray; 
+	display: inline-block;
+	margin:15px;
+	position: static;
+
+ }
+ #cuadro2{
+	height: 211px;
+	width: 211px;
+	border:0px solid gray;
+	display: inline-block;
+	margin:15px;
+	position: static;
+ }
+p{
+	text-align: right;
+	color: white;
+	font-size: 10px;
+	position: absolute;
+	margin-left: 130px;
+	margin-top: 195px;
+
+}
+h1{
+	font-size: 18px;
+}
+#linea{
+	width: 100px;
+	border:1px solid black;
+}
