@@ -32,3 +32,10 @@ h1{
 	width: 100px;
 	border:1px solid black;
 }
+img{
+	opacity: 0.5;
+}
+
+img:hover{
+	opacity: 1;
+}
